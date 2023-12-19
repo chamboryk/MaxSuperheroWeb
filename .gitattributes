@@ -1,0 +1,2 @@
+G:/WORK/MaxSuperheroWeb/Build/MaxSuperheroWeb.data.gz filter=lfs diff=lfs merge=lfs -text
+Build/MaxSuperheroWeb.data.gz filter=lfs diff=lfs merge=lfs -text
